@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I’m Jay (@JayGSWE) 👋
+
+Senior Software Engineer | Embedded & Wireless Systems 👨‍💻🌐
+Passionate about Technology & Innovation ⚡⌚❤️
+
+Feel free to collaborate!
+📫 Connect with me: linkedin.com/in/jaygswe
 
 <!--
 **jayg-swe/jayg-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
