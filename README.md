@@ -1,10 +1,9 @@
 ## Hi there, I’m Jay (@JayG.SWE) 👋
 
-• Senior Software Engineer | Embedded & Wireless Systems 👨‍💻🌐
-• Passionate about Technology & Innovation ⚡⌚❤️
+- Senior Software Engineer | Embedded & Wireless Systems 👨‍💻🌐
+- Passionate about Technology & Innovation ⚡⌚❤️
 
-Feel free to collaborate!
-📫 Connect with me:
+Feel free to collaborate! 📫 
 - linkedin.com/in/jaygswe
 - linktr.ee/jayg.swe
 
